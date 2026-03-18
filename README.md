@@ -34,5 +34,5 @@ It demonstrates how to create a repository, add files, and manage versions.
 
 
 ##  Author
- Name: Madhu Priya K M 
+Madhu Priya K M 
 

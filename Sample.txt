@@ -1,0 +1,6 @@
+Project Name: My First Git Project
+
+This is a beginner-level project created to understand Git and GitHub.
+In this project, I learned how to create a repository, add files, and manage versions.
+
+Author: Madhu Priya K M
